@@ -1,0 +1,123 @@
+Folder PATH listing for volume DATA
+Volume serial number is 0073006E 6804:4AD2
+D:\
++---2007
+¦       MPIK - Retantyo Wardoyo - UTS.jpeg
+¦
++---2008
+¦       SIG - Sigit Priyanta - UTS.jpeg
+¦
++---2009
+¦       Agama Islam - Kamsul Abraha - UAS.jpeg
+¦       Agama Islam - Kamsul Abraha - UAS2.jpeg
+¦       AVM - Budi Surodjo - UAS.jpeg
+¦       AVM - Budi Surodjo - UTS.jpeg
+¦       Etprof - Sigit Priyanta - UAS.jpeg
+¦       Login - na - UTS.jpeg
+¦       Orkom - Abdul Rouf - UTS.jpeg
+¦       PE - Panggih Basuki - UAS.jpeg
+¦       PE - Panggih Basuki - UTS.jpeg
+¦       PTI - Ary Prasetyo - UTS.jpeg
+¦       PTI - Retantyo Wardoyo - UTS.jpeg
+¦       SIG - Sigit Priyanta - UTS.jpeg
+¦       TBO - Retantyo Wardoyo - UTS.jpeg
+¦
++---2010
+¦   ¦   Alpro - Janoe Hendarto - UAS.jpeg
+¦   ¦   Alpro - Janoe Hendarto - UTS.jpeg
+¦   ¦   Basdat - Khabib Mustofa - UTS.jpeg
+¦   ¦   Kalkulus 1 - Moch Tari - UAS.jpeg
+¦   ¦   Kalkulus 2 - Fajar Adi - UAS.jpeg
+¦   ¦   Kalkulus 2 - Fajar Adi - UTS.jpeg
+¦   ¦   KBP - Agus Sihabuddin - UTS.jpeg
+¦   ¦   Metstat - Suryo Guritno - UAS.jpeg
+¦   ¦   Metstat - Suryo Guritno - UTS.jpeg
+¦   ¦   Orkom - Abdul Rouf - UTS.jpeg
+¦   ¦   Prak.Alpro - Fakhrurrifqi - UAS.jpeg
+¦   ¦   Prak.Alpro - Fakhrurrifqi - UTS.jpeg
+¦   ¦   Prak.Basdat - Sigit Dewanto - UTS.jpeg
+¦   ¦   Prak.RPL - Anik Budiati - UTS.jpeg
+¦   ¦   PTI - Retantyo Wardoyo - UAS.jpeg
+¦   ¦   Sisdig - Yohanes Suyanto - UAS.jpeg
+¦   ¦   Sisdig - Yohanes Suyanto - UTS.jpeg
+¦   ¦
+¦   +---Basdat - Khabib Mustofa - UAS
+¦   ¦       Basdat - Khabib Mustofa - UAS1.jpeg
+¦   ¦       Basdat - Khabib Mustofa - UAS2.jpeg
+¦   ¦
+¦   +---English - na - UTS
+¦           English - na - UTS1.jpeg
+¦           English - na - UTS2.jpeg
+¦
++---2011
+¦   ¦   APP - Medi - UTS.jpeg
+¦   ¦   Audit - Khabib,Mardhani - UAS.jpeg
+¦   ¦   Audit - Khabib,Mardhani - UTS.jpeg
+¦   ¦   Grafkom - Nur Rokhman - UTS.jpeg
+¦   ¦   InterIntra - Suharto - UAS.jpeg
+¦   ¦   InterIntra - Suharto - UTS.jpeg
+¦   ¦   KSJ - Medi - UAS.jpeg
+¦   ¦   KSJ - Medi - UAS2.jpeg
+¦   ¦   Manjar - Mujiyatna - UAS.jpeg
+¦   ¦   Manjar - Mujiyatna - UTS.jpeg
+¦   ¦   Metnum - Dalijo - UAS.jpeg
+¦   ¦   Metnum - Dalijo - UTS.jpeg
+¦   ¦   Orkom - Abdul Rouf - UTS.jpeg
+¦   ¦   Orkom - Widodo - UAS.jpeg
+¦   ¦   Pengpol - Nur Zahrati - UTS.jpeg
+¦   ¦   PJPB - Mujiyatna - UTS.jpeg
+¦   ¦   Prak.SO - Panji - UAS.jpeg
+¦   ¦   SIG - Sigit Priyanta - UAS.jpeg
+¦   ¦   SIG - Sigit Priyanta - UTS.jpeg
+¦   ¦   Sispar - Lukman Heryawan - UTS.jpeg
+¦   ¦   TBO - Retantyo Wardoyo - UTS.jpeg
+¦   ¦
+¦   +---JST - Azhari - UTS
+¦           JST - Azhari - UTS1.jpeg
+¦           JST - Azhari - UTS2.jpeg
+¦
++---2012
+¦   ¦   ADA - Suprapto - UTS.jpeg
+¦   ¦   Algen - Faizah - UTS.jpeg
+¦   ¦   Emsos - Triyogatama - UTS.jpeg
+¦   ¦   Etprof - Nur Rokhman - UTS.jpeg
+¦   ¦   Etprof - Sigit Priyanta - UAS.jpeg
+¦   ¦   Fikom - na - UAS.jpeg
+¦   ¦   Insos - Susi Daryanti - UAS.jpeg
+¦   ¦   Insos - Susi,Prastowo - UTS.jpeg
+¦   ¦   Kriptografi - Bambang Prastowo - UAS.jpeg
+¦   ¦   Kriptografi - Bambang Prastowo - UTS.jpeg
+¦   ¦   MPIK - Retantyo,Hartati - UAS.jpeg
+¦   ¦   MPIK - Sri Hartati - UTS.jpeg
+¦   ¦   PJPB - Mujiyatna - UAS.jpeg
+¦   ¦   SPK - Faizah - UAS.jpeg
+¦   ¦   SPK - Faizah - UTS.jpeg
+¦   ¦   TBO - Retantyo Wardoyo - kuis.jpeg
+¦   ¦   TBO - Retantyo Wardoyo - UAS.jpeg
+¦   ¦   TBO - Retantyo Wardoyo - UTS.jpeg
+¦   ¦
+¦   +---DMBI - Edi Winarko - UAS
+¦   ¦       DMBI - Edi Winarko - UAS1.jpeg
+¦   ¦       DMBI - Edi Winarko - UAS2.jpeg
+¦   ¦
+¦   +---IMK - Faizah - UTS
+¦   ¦       IMK - Faizah - UTS1.jpeg
+¦   ¦       IMK - Faizah - UTS2.jpeg
+¦   ¦
+¦   +---JST - Azhari - UAS
+¦           JST - Azhari - UAS1.jpeg
+¦           JST - Azhari - UAS2.jpeg
+¦           JST - Azhari - UAS3.jpeg
+¦           JST - Azhari - UAS4.jpeg
+¦
++---2013
+    ¦   ADA - Suprapto - UAS.jpeg
+    ¦   Manpro - Mardhani - UTS.jpeg
+    ¦   PF - Lukman Heryawan - UAS.jpeg
+    ¦   PF - Lukman Heryawan - UTS.jpeg
+    ¦   TBO - Retantyo Wardoyo - UAS.jpeg
+    ¦
+    +---IMK - Faizah - UAS
+            IMK - Faizah - UAS1.jpeg
+            IMK - Faizah - UAS2.jpeg
+
