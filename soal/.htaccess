@@ -1,4 +1,5 @@
 Options -Indexes
 Options -ExecCGI
 AddHandler cgi-script .php .php3 .php4 .phtml .pl .py .jsp .asp .htm .shtml .sh .cgi
-ErrorDocument 404 "<H1>Page not found</H1>"
+ErrorDocument 404 404.html
+ErrorDocument 403 403.html
