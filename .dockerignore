@@ -1,0 +1,64 @@
+# flyctl launch added from .gitignore
+**/vendor
+**/composer.lock
+**/.DS_Store
+**/*.zip
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/.gitignore
+vendor/heroku/heroku-buildpack-php/**/.DS_Store
+vendor/heroku/heroku-buildpack-php/**/composer.lock
+vendor/heroku/heroku-buildpack-php/**/vendor
+vendor/heroku/heroku-buildpack-php/**/test/fixtures/repos
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/support/devcenter/.gitignore
+!vendor/heroku/heroku-buildpack-php/support/devcenter/**/composer.lock
+vendor/heroku/heroku-buildpack-php/support/devcenter/**/vendor
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/fixtures/.gitignore
+!vendor/heroku/heroku-buildpack-php/test/fixtures/**/composer.lock
+vendor/heroku/heroku-buildpack-php/test/fixtures/**/vendor
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.gitignore
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.phpunit.cache
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/node_modules
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/public/build
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/public/hot
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/public/storage
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/storage/*.key
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/storage/pail
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/vendor
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/.env
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/.env.backup
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/.env.production
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/.phpactor.json
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/.phpunit.result.cache
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/Homestead.json
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/Homestead.yaml
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/npm-debug.log
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/**/yarn-error.log
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/auth.json
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.fleet
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.idea
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.nova
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.vscode
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/.zed
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/bootstrap/cache/.gitignore
+vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/bootstrap/cache/**/*
+!vendor/heroku/heroku-buildpack-php/test/fixtures/bugs/scoutapm/bootstrap/cache/**/.gitignore
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/fixtures/ci/codeception/tests/.gitignore
+vendor/heroku/heroku-buildpack-php/test/fixtures/ci/codeception/tests/**/_log/*
+vendor/heroku/heroku-buildpack-php/test/fixtures/ci/codeception/tests/**/_output/*
+vendor/heroku/heroku-buildpack-php/test/fixtures/ci/codeception/tests/**/_support/_generated/*
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/fixtures/ci/phpunit/.gitignore
+vendor/heroku/heroku-buildpack-php/test/fixtures/ci/phpunit/**/.phpunit.result.cache
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/var/.gitignore
+vendor/heroku/heroku-buildpack-php/test/var/**/log/*
+
+# flyctl launch added from vendor/heroku/heroku-buildpack-php/test/var/log/.gitignore
+!vendor/heroku/heroku-buildpack-php/test/var/log/**/README.md
+!vendor/heroku/heroku-buildpack-php/test/var/log/**/parallel_runtime_rspec.*.log
+fly.toml
