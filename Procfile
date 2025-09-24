@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2 soal/
+web: vendor/bin/heroku-php-apache2 -p 8080 -h 0.0.0.0 soal/
