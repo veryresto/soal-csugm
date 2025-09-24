@@ -4,7 +4,11 @@ This project is a simple static web application to browse an archive of past exa
 
 It was originally built using the [DirectoryLister](https://www.directorylister.com/) script, but has since been migrated to a static site architecture.
 
-## How to Run
+## Live Version
+
+The application is deployed and can be accessed at: **https://soal-csugm.fly.dev/**
+
+## How to Run Locally
 
 1.  **Prerequisites:** A web browser.
 2.  **Open the file:** Navigate to the `soal/` directory and open the `index.html` file in your web browser.
